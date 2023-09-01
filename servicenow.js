@@ -17,7 +17,7 @@
         var sys_id = current.getValue("sys_id");
         var subcategory = current.getValue("subcategory");
         var state = current.getValue("state");
-        var due_date = current.getValue("dua_date");
+        var due_date = current.getValue("due_date");
         var business_service = current.getValue("business_service");
         var service_offering = current.getValue("service_offering");
         var assigned_to = current.getValue("assigned_to");
